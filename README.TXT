@@ -5,3 +5,4 @@ https://www.baeldung.com/reading-file-in-java
 
 sorting samples:
 https://tproger.ru/digest/sorting-algorithms-visualized/
+https://leetcode.com/discuss/general-discussion/754949/sorting-algorithms-in-short
